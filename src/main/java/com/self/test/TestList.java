@@ -1,3 +1,5 @@
+package com.self.test;
+
 
 import java.beans.EventHandler;
 import java.io.Serializable;

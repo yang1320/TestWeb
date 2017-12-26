@@ -1,3 +1,5 @@
+package com.self.test;
+
 
 public class TestString {
 

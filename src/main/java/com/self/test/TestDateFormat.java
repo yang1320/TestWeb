@@ -1,3 +1,5 @@
+package com.self.test;
+
 import java.math.BigDecimal;
 import java.text.SimpleDateFormat;
 import java.util.Date;

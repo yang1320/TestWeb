@@ -15,9 +15,6 @@ public class Test {
 		
 		System.out.println("本地冲突");
 		
-		
-		System.out.println("冲突模拟");
-		
 		DecimalFormat decFormat = new DecimalFormat("#.0000");
 		
 		System.out.println( decFormat.format(new BigDecimal("10.00000")));

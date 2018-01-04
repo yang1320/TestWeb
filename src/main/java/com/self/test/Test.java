@@ -14,7 +14,11 @@ public class Test {
 		
 		
 		System.out.println("冲突模拟");
+
 		System.out.println("本地冲突");
+
+
+		
 
 		DecimalFormat decFormat = new DecimalFormat("#.0000");
 		

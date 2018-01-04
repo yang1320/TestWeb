@@ -9,9 +9,6 @@ public class Test {
 		Object o1 = null;
 		System.out.println((BigDecimal)o1);
 		System.out.println((Object)"12.33");
-//		System.out.println(new BigDecimal(12.2f));
-		
-		
 		
 		System.out.println("冲突模拟");
 
